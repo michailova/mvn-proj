@@ -14,6 +14,6 @@ public class DVDPlayer extends Player implements Playable, Test {
 
     @Override
     public void test() {
-        
+
     }
 }
