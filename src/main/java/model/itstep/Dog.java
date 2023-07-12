@@ -1,5 +1,4 @@
 package model.itstep;
 
-public class Main {
-
+public class Dog {
 }
